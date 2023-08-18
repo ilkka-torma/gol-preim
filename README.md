@@ -1,2 +1,4 @@
 # gol-preim
-Scripts and ancillary files for finding and verifying Game of Life patterns with constrained preimages
+
+A Python program for finding Game of Life patterns with constrained preimages.
+
